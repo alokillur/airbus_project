@@ -6,7 +6,7 @@ Flight navigation systems often face challenges such as adverse weather, unavail
 - Assess risks
 - Suggest alternative routes
 
-This will improve safety, efficiency, and reliability. Additionally, a health metrics tracker will monitor the aircraft's operational status, enabling proactive risk mitigation. The solution features a user-friendly dashboard for pilots and control centers, displaying routes, risks, and real-time updates. Scalability is ensured through cloud infrastructure, supporting increased data volumes and users. Key impact metrics include reduced flight incidents, improved fuel consumption, reduced delays, and positive user feedback.
+This will improve safety, efficiency, and reliability. Additionally, a health metrics tracker will monitor the aircraft's operational status, enabling proactive risk mitigation. The solution features a user-friendly dashboard for pilots and control centers, displaying routes, risks, and real-time updates. Scalability is ensured through cloud infrastructure, supporting increased data volumes and users. Key impact metrics include reduced flight incidents, improved fuel consumption, reduced delays, and positive user feedback it also consist of Chat-Bot which will help the Pilot to assist in taking decission.
 
 ## Backend Setup
 
@@ -66,6 +66,6 @@ We have added project documentation (Project Documentation.pdf) to the GitHub re
 ## Vercel Deployed Link
 
 The project has been deployed on Vercel. You can access it using the following link:
-[Flight Navigation System](https://airbus-challenge-fronted.vercel.app/)
+[Flight Navigation System](https://airbus-challenge-fronted.vercel.app/flight/2992959)
 
 With these setup instructions and project documentation, you can get the backend and frontend of the flight navigation system up and running efficiently.
